@@ -99,6 +99,16 @@
     .describe-produck .head-describe p{
         margin-bottom: -10px;
     }
+    .info-hal-product h2{
+        width: 80%;
+        padding: 10px;
+        font-size: 26px;
+    }
+    .info-hal-product .bungkus-banner{
+        width: 300px;
+        height: 300px;
+        margin: 0 auto 50px auto;
+    }
     #info-product{
         height: 750px;
         text-align: center;
