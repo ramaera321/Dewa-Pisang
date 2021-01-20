@@ -1,0 +1,181 @@
+@media screen and (max-width: 1000px){
+    .navbar{
+        text-align: center;
+    }
+    .navbar-nav{
+        width: auto;
+    }
+    .navbar-nav li{
+        padding-top: 10px;
+    }
+    .navbar-nav li a{
+        margin-left: -10%;
+    }
+    .jumbotron{
+        height: 840px;
+    }
+    .jumbotron .container{
+        text-align: center;
+        padding-top: 110px;
+    }
+    .produck{
+        height: 730px;
+    }
+    .jumbotron .display-4{
+        font-family: "Dosis";
+        font-size: 68px;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .jumbotron .lead{
+        font-size: 20px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    
+    .jumbotron .btn-primary{
+        border-radius: 50px;
+        padding: 8px 20px;
+        margin: 0px auto 100px auto;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    
+    #switchbanner{
+        width: 100%;
+    }
+
+    .jumbotron .i-produck{
+        width: 100%;
+        height: auto;
+        z-index: 10;
+        float: right;
+        margin: -40px 0 0 10px;
+        position: relative;
+        -webkit-margin-start: -40px 0 0 10px;
+    }
+    .jumbotron .table{
+        z-index: 1;
+        height: 25%;
+        width: 110%;
+        margin: -45% 0 0 -5%;
+        -webkit-margin-start: -35% 0 0 -5%;
+    }
+    .jumbotron .produckbannertext{
+        font-size: 48px;
+        margin-bottom: 40px;
+    }
+    .jumbotron .tableproduck{
+        width: 115%;
+    }
+    .describe{
+        height: 720px;
+    }
+    #img-describe img{
+        width: 100%;
+        height: auto;
+        margin-top: -100px;
+    }
+    .describe h2{
+        padding: 8px 15px;
+        font-size: 20px;
+        margin-top: 60px;
+    }
+    .describe p{
+        font-size: 20px;
+        text-align: center;
+    }
+    .describe-produck h2{
+        font-size: 28px;
+        padding: 8px 0px;
+        margin-top: -20px;
+    }
+    .describe-produck p, li{
+        font-size: 16px;
+    }
+    .describe-produck ul{
+        margin-bottom: 40px;
+    }
+    .describe-produck .head-describe p{
+        margin-bottom: -10px;
+    }
+    #info-product{
+        height: 750px;
+        text-align: center;
+    }
+    
+    #info-product h2{
+        font-size: 28px;
+        margin-top: 70px;
+    }
+    
+    #info-product p{
+        font-size: 18px;
+    }
+    #info-product img{
+        width: 80%;
+        height: auto;
+        margin-top: 10px;
+    }
+    #info-reseller{
+        height: 900px;
+        text-align: center;
+    }
+    #info-reseller h2{
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    #info-reseller p{
+        font-size: 18px;
+        text-align: center;
+    }
+    #info-reseller li{
+        padding-top: 3px;
+        font-size: 18px;
+        margin: 0 0 0 25%;
+        text-align: left;
+    }
+    #info-reseller img{
+        height: 450px;
+        float: none;
+        margin: -20px auto;
+    }
+    #info-testi{
+        height: 720px;
+        padding-bottom: 20px;
+    }
+    #info-testi h2{
+        font-size: 32px;
+    }
+    #info-testi p{
+        font-size: 14px;
+    }
+    #info-testi #testi{
+        width: 300px;
+        margin: 0 auto;
+    }
+    #info-testi #testi img{
+        height: 300px;
+        margin: 20px auto 30px auto;
+    }
+    
+    #info-testi #prev{
+        margin-left: -10px;
+    }
+    
+    #info-testi #next{
+        margin-right: -10px;
+    }
+    #footer-web{
+        height: 210px;
+    }
+    #footer-web i{
+        padding: 15px 10px;
+    }
+    #footer-web h4{
+        font-size: 22px;
+    }
+    #footer-web p{
+        font-size: 12px;
+    }
+}
