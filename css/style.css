@@ -128,6 +128,41 @@ body{
     margin: -100px 0 0 -32px;
 }
 
+.jumbotron .reseller h1{
+    font-family: "Dosis";
+    font-size: 52px;
+    font-weight: bold;
+    color: #FFAA00;
+    margin-bottom: 20px;
+}
+
+.jumbotron .reseller #first{
+    font-family: "open-sans-semibold";
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.jumbotron .reseller #second{
+    font-family: "open-sans-semibold";
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.jumbotron .reseller a{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.jumbotron .reseller img{
+    width: 110%;
+    height: auto;
+    margin-top: -80px;
+}
+
 .describe{
     margin-top: -35px;
     height: 680px;
