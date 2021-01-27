@@ -205,13 +205,51 @@ body{
 }
 
 .describe-produck{
-    margin-top: -35px;
     height: auto;
     background-image: radial-gradient(#3b5360, black);
     background-size: cover;
     overflow: hidden;
     color: white;
     padding: 100px 0px;
+}
+
+.peluang-reseller{
+    margin-top: -35px;
+    height: 725px;
+    background-image: url("../image/bg2.jpg");
+    background-size: 880px;
+    overflow: hidden;
+    padding: 100px 0px 0px 0px;
+}
+
+.peluang-reseller h3{
+    font-size: 36px;
+    font-family: 'Dosis';
+    font-weight: bold;
+}
+
+.peluang-reseller h4{
+    font-size: 24px;
+    font-family: 'Dosis';
+    font-weight: bold;
+}
+
+.peluang-reseller li{
+    color: black;
+    font-size: 20px;
+    font-family: 'open-sans-semibold';
+}
+
+.peluang-reseller p{
+    font-size: 20px;
+    font-family: 'open-sans-semibold';
+    font-style: italic;
+}
+
+.peluang-reseller img{
+    width: 120%;
+    height: auto;
+    margin-left: -50px;
 }
 
 .describe-produck p, li{
@@ -250,6 +288,48 @@ body{
     background-size: cover;
     height: 610px;
     color: white;
+}
+
+#info-product-reseller{
+    background-image: url('../image/Background.jpg');
+    background-size: cover;
+    height: 1200px;
+    color: white;
+    overflow: hidden;
+}
+
+#info-product-reseller h2{
+    font-family: "Dosis";
+    font-weight: bold;
+    font-size: 36px;
+    margin-top: 110px;
+    text-align: center;
+}
+
+#info-product-reseller h3{
+    font-family: "Dosis";
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#info-product-reseller .gambar{
+    text-align: center;
+}
+
+#info-product-reseller img{
+    width: 60%;
+    height: auto;
+    margin-top: 50px;
+}
+
+#info-product-reseller p{
+    font-family: "OpenSans";
+    font-style: italic;
+    color: #FFC000;
+    font-size: 22px;
+    text-align: center;
 }
 
 .info-hal-product{
@@ -337,6 +417,50 @@ body{
 #info-product img{
     height: 400px;
     margin-top: 130px;
+}
+
+#daftar-reseller{
+    height: 1150px;
+    background-image: url("../image/bg2.jpg");
+    background-size: 800px;
+    padding: 80px 0 30px 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+#daftar-reseller h2{
+    font-family: "Dosis";
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+
+#daftar-reseller #panah{
+    width: 50%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+#daftar-reseller a{
+    font-family: 'OpenSans';
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 50px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+
+#daftar-reseller p{
+    font-family: "Dosis";
+    font-size: 38px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#daftar-reseller #gambar{
+    width: 50%;
+    height: auto;
+    margin: -20px;
 }
 
 #info-reseller{
